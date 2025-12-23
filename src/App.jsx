@@ -8,7 +8,7 @@ import Subscribe from "./components/Subscribe";
 function App() {
   return (
     <>
-      <div className="min-h-screen bg-slate-900 text-neutral-200 text-base leading-relaxed">
+      <div className="min-h-screen bg-neutral-900 text-neutral-200 text-base leading-relaxed">
         <Header />
         <Hero />
         <Intro />
